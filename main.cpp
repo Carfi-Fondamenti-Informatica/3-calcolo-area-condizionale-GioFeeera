@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    float a=0, b=0, A=0;
+    float a=0, b=0, A;
     int opzione=0;
     cout << "Inserire le misure dei lati a: " << endl;
     cin >> a;
