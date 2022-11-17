@@ -7,15 +7,15 @@ int main() {
    cin >> a >> b;
     cin >> opzione;
     switch (opzione) {
-        case 1:
+        case 0:
             A= (a*b)/2;
             cout << A << endl;
             break;
-        case 2:
+        case 1:
             A= a*a;
            cout << A << endl;
             break;
-        case 3:
+        case 2:
             A= a*b;
             cout << A << endl;
             break;
